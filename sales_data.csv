@@ -1,0 +1,121 @@
+Date,Region,Category,Product,Sales,Profit,Quantity,Customer_Segment
+2024-01-05,North,Electronics,Laptop,85000,17000,5,Corporate
+2024-01-08,South,Furniture,Chair,12000,2400,8,Consumer
+2024-01-10,East,Office Supplies,Pen Set,3500,700,50,Home Office
+2024-01-12,West,Electronics,Mobile Phone,45000,9000,10,Consumer
+2024-01-15,North,Furniture,Desk,28000,5600,4,Corporate
+2024-01-18,South,Electronics,Tablet,32000,6400,8,Consumer
+2024-01-20,East,Furniture,Sofa,55000,11000,3,Consumer
+2024-01-22,West,Office Supplies,Notebook,4200,840,60,Home Office
+2024-01-25,North,Electronics,Headphones,18000,3600,12,Consumer
+2024-01-28,South,Office Supplies,Stapler,2800,560,35,Corporate
+2024-02-02,East,Electronics,Laptop,92000,18400,6,Corporate
+2024-02-05,West,Furniture,Chair,14500,2900,10,Consumer
+2024-02-08,North,Office Supplies,Pen Set,4100,820,55,Home Office
+2024-02-10,South,Electronics,Mobile Phone,48000,9600,11,Consumer
+2024-02-14,East,Furniture,Desk,31000,6200,5,Corporate
+2024-02-16,West,Electronics,Tablet,36000,7200,9,Consumer
+2024-02-18,North,Furniture,Sofa,60000,12000,4,Consumer
+2024-02-20,South,Office Supplies,Notebook,5000,1000,70,Home Office
+2024-02-22,East,Electronics,Headphones,21000,4200,14,Consumer
+2024-02-25,West,Office Supplies,Stapler,3200,640,40,Corporate
+2024-03-01,North,Electronics,Laptop,78000,15600,5,Home Office
+2024-03-04,South,Furniture,Chair,11000,2200,7,Consumer
+2024-03-07,East,Office Supplies,Pen Set,3800,760,48,Corporate
+2024-03-10,West,Electronics,Mobile Phone,52000,10400,12,Consumer
+2024-03-13,North,Furniture,Desk,26000,5200,4,Home Office
+2024-03-15,South,Electronics,Tablet,34000,6800,8,Consumer
+2024-03-18,East,Furniture,Sofa,58000,11600,4,Corporate
+2024-03-20,West,Office Supplies,Notebook,4700,940,65,Consumer
+2024-03-22,North,Electronics,Headphones,19500,3900,13,Home Office
+2024-03-25,South,Office Supplies,Stapler,2500,500,32,Corporate
+2024-04-01,East,Electronics,Laptop,88000,17600,6,Consumer
+2024-04-04,West,Furniture,Chair,15000,3000,10,Corporate
+2024-04-07,North,Office Supplies,Pen Set,4500,900,58,Home Office
+2024-04-10,South,Electronics,Mobile Phone,47000,9400,10,Consumer
+2024-04-13,East,Furniture,Desk,29000,5800,4,Corporate
+2024-04-16,West,Electronics,Tablet,38000,7600,10,Consumer
+2024-04-19,North,Furniture,Sofa,62000,12400,4,Home Office
+2024-04-22,South,Office Supplies,Notebook,5200,1040,72,Consumer
+2024-04-25,East,Electronics,Headphones,22000,4400,15,Consumer
+2024-04-28,West,Office Supplies,Stapler,3000,600,38,Corporate
+2024-05-02,North,Electronics,Laptop,95000,19000,7,Corporate
+2024-05-05,South,Furniture,Chair,13500,2700,9,Consumer
+2024-05-08,East,Office Supplies,Pen Set,4200,840,52,Home Office
+2024-05-11,West,Electronics,Mobile Phone,54000,10800,12,Consumer
+2024-05-14,North,Furniture,Desk,33000,6600,5,Corporate
+2024-05-17,South,Electronics,Tablet,37000,7400,9,Consumer
+2024-05-20,East,Furniture,Sofa,64000,12800,4,Consumer
+2024-05-23,West,Office Supplies,Notebook,4900,980,68,Home Office
+2024-05-26,North,Electronics,Headphones,23000,4600,16,Consumer
+2024-05-29,South,Office Supplies,Stapler,2700,540,34,Corporate
+2024-06-02,East,Electronics,Laptop,82000,16400,5,Home Office
+2024-06-05,West,Furniture,Chair,16000,3200,11,Consumer
+2024-06-08,North,Office Supplies,Pen Set,3900,780,50,Corporate
+2024-06-11,South,Electronics,Mobile Phone,50000,10000,11,Consumer
+2024-06-14,East,Furniture,Desk,27500,5500,4,Home Office
+2024-06-17,West,Electronics,Tablet,40000,8000,10,Consumer
+2024-06-20,North,Furniture,Sofa,59000,11800,4,Corporate
+2024-06-23,South,Office Supplies,Notebook,5500,1100,75,Consumer
+2024-06-26,East,Electronics,Headphones,20500,4100,14,Consumer
+2024-06-29,West,Office Supplies,Stapler,3100,620,39,Corporate
+2024-07-02,North,Electronics,Laptop,90000,18000,6,Corporate
+2024-07-05,South,Furniture,Chair,12800,2560,8,Consumer
+2024-07-08,East,Office Supplies,Pen Set,4000,800,51,Home Office
+2024-07-11,West,Electronics,Mobile Phone,56000,11200,13,Consumer
+2024-07-14,North,Furniture,Desk,30000,6000,5,Home Office
+2024-07-17,South,Electronics,Tablet,42000,8400,11,Consumer
+2024-07-20,East,Furniture,Sofa,67000,13400,5,Consumer
+2024-07-23,West,Office Supplies,Notebook,5800,1160,78,Corporate
+2024-07-26,North,Electronics,Headphones,24000,4800,16,Consumer
+2024-07-29,South,Office Supplies,Stapler,2900,580,36,Home Office
+2024-08-02,East,Electronics,Laptop,87000,17400,6,Consumer
+2024-08-05,West,Furniture,Chair,14000,2800,9,Corporate
+2024-08-08,North,Office Supplies,Pen Set,4300,860,54,Home Office
+2024-08-11,South,Electronics,Mobile Phone,49000,9800,11,Consumer
+2024-08-14,East,Furniture,Desk,28500,5700,4,Corporate
+2024-08-17,West,Electronics,Tablet,39000,7800,10,Consumer
+2024-08-20,North,Furniture,Sofa,61000,12200,4,Home Office
+2024-08-23,South,Office Supplies,Notebook,5100,1020,70,Consumer
+2024-08-26,East,Electronics,Headphones,21500,4300,15,Consumer
+2024-08-29,West,Office Supplies,Stapler,2800,560,35,Corporate
+2024-09-02,North,Electronics,Laptop,93000,18600,7,Corporate
+2024-09-05,South,Furniture,Chair,15500,3100,11,Consumer
+2024-09-08,East,Office Supplies,Pen Set,4600,920,59,Home Office
+2024-09-11,West,Electronics,Mobile Phone,58000,11600,13,Consumer
+2024-09-14,North,Furniture,Desk,32000,6400,5,Corporate
+2024-09-17,South,Electronics,Tablet,43000,8600,11,Consumer
+2024-09-20,East,Furniture,Sofa,65000,13000,5,Consumer
+2024-09-23,West,Office Supplies,Notebook,6000,1200,82,Home Office
+2024-09-26,North,Electronics,Headphones,25000,5000,17,Consumer
+2024-09-29,South,Office Supplies,Stapler,3300,660,42,Corporate
+2024-10-02,East,Electronics,Laptop,96000,19200,7,Home Office
+2024-10-05,West,Furniture,Chair,13200,2640,9,Consumer
+2024-10-08,North,Office Supplies,Pen Set,4100,820,52,Corporate
+2024-10-11,South,Electronics,Mobile Phone,55000,11000,12,Consumer
+2024-10-14,East,Furniture,Desk,31500,6300,5,Home Office
+2024-10-17,West,Electronics,Tablet,44000,8800,11,Consumer
+2024-10-20,North,Furniture,Sofa,68000,13600,5,Corporate
+2024-10-23,South,Office Supplies,Notebook,5700,1140,77,Consumer
+2024-10-26,East,Electronics,Headphones,26000,5200,18,Consumer
+2024-10-29,West,Office Supplies,Stapler,3100,620,39,Home Office
+2024-11-02,North,Electronics,Laptop,102000,20400,8,Corporate
+2024-11-05,South,Furniture,Chair,16000,3200,11,Consumer
+2024-11-08,East,Office Supplies,Pen Set,5000,1000,63,Home Office
+2024-11-11,West,Electronics,Mobile Phone,62000,12400,14,Consumer
+2024-11-14,North,Furniture,Desk,35000,7000,6,Corporate
+2024-11-17,South,Electronics,Tablet,48000,9600,12,Consumer
+2024-11-20,East,Furniture,Sofa,72000,14400,5,Consumer
+2024-11-23,West,Office Supplies,Notebook,6500,1300,88,Home Office
+2024-11-26,North,Electronics,Headphones,28000,5600,19,Consumer
+2024-11-29,South,Office Supplies,Stapler,3600,720,45,Corporate
+2024-12-02,East,Electronics,Laptop,108000,21600,8,Home Office
+2024-12-05,West,Furniture,Chair,17500,3500,12,Consumer
+2024-12-08,North,Office Supplies,Pen Set,5500,1100,68,Corporate
+2024-12-11,South,Electronics,Mobile Phone,68000,13600,15,Consumer
+2024-12-14,East,Furniture,Desk,38000,7600,6,Home Office
+2024-12-17,West,Electronics,Tablet,52000,10400,13,Consumer
+2024-12-20,North,Furniture,Sofa,78000,15600,6,Corporate
+2024-12-23,South,Office Supplies,Notebook,7200,1440,95,Consumer
+2024-12-26,East,Electronics,Headphones,31000,6200,21,Consumer
+2024-12-29,West,Office Supplies,Stapler,4000,800,50,Home Office
