@@ -1,10 +1,15 @@
 # Task 3 — Dashboard Development
 
 **Internship:** CodTech IT Solutions Pvt. Ltd.
+
 **Domain:** Data Analytics
+
 **Intern Name:** Ankit Tiwary
+
 **Intern ID:** CITS538
+
 **Mentor:** Neela Santhosh Kumar
+
 **Duration:** 4 Weeks
 
 ---
